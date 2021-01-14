@@ -5,7 +5,7 @@
 **Precondition:** 
 * на рабочей машине установлена Java не ниже версии 8.0
 * установлен IDE
-* Test-Data: balance = `-1_000_000_000`; transaction = `0`
+* Test-Data: balance = `1_000_000_000`; transaction = `0`
 
 **Steps**
 
